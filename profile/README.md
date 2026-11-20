@@ -9,7 +9,7 @@
 An open platform for deploying and operating virtual PLCs across industrial sites.
 
 [![Project repository](https://img.shields.io/badge/Explore_the_code-VIONA--Platform-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VIONA-project/VIONA-Platform)
-[![Documentation](https://img.shields.io/badge/Read_the_docs-Documentation-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/VIONA-project/VIONA-Platform/blob/main/docs/index.md)
+[![Documentation](https://img.shields.io/badge/Read_the_docs-Documentation-0f766e?style=for-the-badge&logo=readthedocs&logoColor=white)](https://viona-project.github.io/VIONA-Platform/)
 
 </div>
 
@@ -24,7 +24,7 @@ We are developing the platform in the open so that the people who build and oper
 | | |
 | :--- | :--- |
 | **[Project repository →](https://github.com/VIONA-project/VIONA-Platform)** | Follow development, explore the project, and contribute. |
-| **[Documentation →](https://github.com/VIONA-project/VIONA-Platform/blob/main/docs/index.md)** | Read the architecture, workload model, and roadmap. |
+| **[Documentation →](https://viona-project.github.io/VIONA-Platform/)** | Read the architecture, workload model, and roadmap. |
 
 ### Help shape VIONA
 
